@@ -93,7 +93,7 @@ Differential gene expression analysis of airway smooth muscle cells treated with
 ---
 
 ## Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/gokulselvaraj)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gokul-selvaraj-6a861b142)
 - 🚀 [Live Shiny App](https://gokul-selvaraj.shinyapps.io/drug-sensitivity-shiny/)
 - 📧 Open to data scientist roles in biotech, pharma, and life science
 
