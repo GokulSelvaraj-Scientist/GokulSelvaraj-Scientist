@@ -1,12 +1,12 @@
 # Hi, I'm Gokul Selvaraj, PhD 👋
 
 ## About Me
-I'm a life scientist transitioning into data science, combining deep expertise in cell biology, microbiology, and molecular biology with computational and analytical skills. My background spans academic research (PhD + postdoctoral work) and scientific consulting — giving me a rare combination of technical depth, strategic thinking, and the ability to communicate complex findings to non-scientific audiences.
+I'm a data scientist with a PhD from the University of Cambridge, UK and postdoctoral research as a Research Fellow at Harvard University, USA. My expertise spans computational biology, cell biology, microbiology, and molecular biology — combined with applied machine learning, statistical modelling, and data science.
 
-I focus on applying data science to problems that matter in drug development, translational research, and precision oncology.
+I focus on applying data science to complex problems in life science, healthcare, and beyond — translating large datasets into actionable insights and communicating findings clearly to both technical and non-technical audiences.
 
-- 🔬 **Scientific background:** Cell biology, microbiology, molecular biology
-- 📊 **Technical skills:** R, DESeq2, survival analysis, machine learning, Shiny, multi-omics
+- 🔬 **Scientific background:** Computational biology, cell biology, microbiology, molecular biology
+- 📊 **Technical skills:** R, SQL, DESeq2, machine learning, Shiny, multi-omics
 - 💊 **Domain focus:** Drug development, oncology, clinical research, pharmacogenomics
 - 🧬 **Interests:** Biomarker discovery, patient stratification, translational data science
 
@@ -31,6 +31,15 @@ Comprehensive analysis of 500+ real lung adenocarcinoma patients from TCGA integ
 Interactive dashboard for exploring drug sensitivity patterns and predicting treatment response in cancer cell lines using GDSC-style pharmacogenomics data. Features drug explorer, biomarker analysis with statistical testing, and live ML model training with adjustable parameters.
 
 `Shiny` `shinydashboard` `randomForest` `pROC` `ggplot2`
+
+---
+
+### 🗄️ [Clinical Genomics SQL Database](https://github.com/GokulSelvaraj-Scientist/genomics-sql-analysis)
+**SQL database design | Complex queries | Genomics analytics**
+
+End-to-end relational database project — designing a clinical genomics schema from scratch, populating with realistic patient, mutation, expression, and survival data, and running 10 analytical SQL queries addressing real biomedical questions including mutation landscape profiling, survival analysis, drug response prediction, and co-mutation analysis.
+
+`SQL` `SQLite` `RSQLite` `DBI` `ggplot2`
 
 ---
 
@@ -72,11 +81,13 @@ Differential gene expression analysis of airway smooth muscle cells treated with
 
 ## Technical Skills
 
-**Languages:** R (advanced), SQL (basic)
+**Languages:** R (advanced), SQL, HTML/CSS
 
 **Bioinformatics:** DESeq2, TCGAbiolinks, maftools, vegan, Bioconductor, SummarizedExperiment
 
 **Machine Learning:** caret, randomForest, pROC, survival analysis, clustering, PCA
+
+**Databases:** SQLite, RSQLite, DBI, relational schema design, complex JOINs, subqueries
 
 **Visualization:** ggplot2, pheatmap, survminer, Shiny, shinydashboard, R Markdown
 
@@ -85,15 +96,15 @@ Differential gene expression analysis of airway smooth muscle cells treated with
 ---
 
 ## Background
-- 🎓 PhD in Cell/Molecular Biology
-- 🔬 4 years postdoctoral research
-- 💼 3 years scientific consulting (SME)
-- 📍 Transitioning to life science data science
+- 🎓 PhD — University of Cambridge, UK
+- 🔬 Research Fellow — Harvard University, USA
+- 📊 Data scientist with a few years of experience in life science data science
+- 📍 Open to data scientist roles across life science, healthcare, tech, and beyond
 
 ---
 
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/gokul-selvaraj-6a861b142)
+- 🌐 [Personal Website](https://gokulselvaraj-scientist.github.io)
 - 🚀 [Live Shiny App](https://gokul-selvaraj.shinyapps.io/drug-sensitivity-shiny/)
-- 📧 Open to data scientist roles in biotech, pharma, and life science
-
+- 📧 Open to data scientist roles across life science, healthcare, tech, and beyond
